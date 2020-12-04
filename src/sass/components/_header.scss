@@ -1,0 +1,99 @@
+.header {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+
+  &__title {
+    font-size: 7.3rem;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    width: 60%;
+    margin-bottom: 5rem;
+    line-height: 8.9rem;
+
+    @media (min-width: 1750px) {
+      font-size: 7.3rem;
+    }
+
+    @media (max-width: 1750px) {
+      font-size: 6.8rem;
+    }
+
+    @media (max-width: 1495px) {
+      font-size: 6rem;
+    }
+
+    @media (max-width: 1350px) {
+      font-size: 5.4rem;
+    }
+
+    @media (max-width: 1200px) {
+      font-size: 4.4rem;
+    }
+
+    @media (max-width: 992px) {
+      font-size: 3.4rem;
+    }
+
+    @media (max-width: 768px) {
+      font-size: 2.6rem;
+    }
+
+    @media (max-width: 576px) {
+      font-size: 2rem;
+    }
+
+    @media (max-width: 320px) {
+      font-size: 0.8rem;
+    }
+  }
+
+  &__text {
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 5rem;
+
+    @media (min-width: 1750px) {
+      width: 30%;
+      font-size: 1.7rem;
+    }
+
+    @media (max-width: 1750px) {
+      width: 37%;
+      font-size: 1.7rem;
+    }
+
+    @media (max-width: 1495px) {
+      width: 40%;
+      font-size: 1.7rem;
+    }
+    @media (max-width: 1350px) {
+      width: 45%;
+      font-size: 1.7rem;
+    }
+    @media (max-width: 1200px) {
+      width: 50%;
+      font-size: 1.5rem;
+    }
+    @media (max-width: 992px) {
+      width: 52%;
+      font-size: 1.3rem;
+    }
+    @media (max-width: 768px) {
+      width: 55%;
+      font-size: 1.2rem;
+    }
+    @media (max-width: 576px) {
+      width: 55%;
+      font-size: 1.2rem;
+    }
+    @media (max-width: 320px) {
+      font-size: 0.8rem;
+    }
+  }
+}

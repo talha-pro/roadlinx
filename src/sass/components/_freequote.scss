@@ -1,0 +1,85 @@
+.free-quote {
+  min-height: 57rem;
+  position: relative;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  // background-size: cover;
+  // background: linear-gradient(rgba($primary, 0.8)),
+  //   url('../images/freequoteback.png');
+  color: rgb(255, 255, 255);
+
+  &__overlay {
+    min-height: 57rem;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    background: rgba($primary, 0.8);
+  }
+
+  &__wrapper {
+    height: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+  }
+
+  &__sub-wrapper {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+    }
+
+    @media (min-width: 1200px) and (max-width: 1383px) {
+    }
+
+    @media (min-width: 1383px) and (max-width: 1548px) {
+    }
+
+    @media (min-width: 1548px) and (max-width: 1750px) {
+    }
+  }
+  &__text {
+    text-align: center;
+    font-size: 4.8rem;
+    font-weight: 400;
+
+    @media (max-width: 768px) {
+      font-size: 3.5rem;
+    }
+  }
+
+  &__heading {
+    text-align: center;
+    margin-bottom: 5rem;
+    font-size: 4.8rem;
+    font-weight: 500;
+
+    @media (max-width: 768px) {
+      font-size: 3.5rem;
+    }
+  }
+}

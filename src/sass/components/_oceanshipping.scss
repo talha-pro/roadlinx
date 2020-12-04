@@ -1,0 +1,74 @@
+.ocean-shipping {
+  background-color: $primary;
+
+  &__col-left {
+    min-height: 90rem;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    padding: 5rem;
+  }
+
+  &__col-right {
+    min-height: 90rem;
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    background: url('../images/ship.png');
+  }
+
+  &__sub-heading {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: $secondary;
+    margin-bottom: 3rem;
+  }
+
+  &__heading {
+    font-size: 3.6rem;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 3rem;
+    width: 70%;
+  }
+
+  &__text {
+    color: white;
+    font-size: 1.7rem;
+    font-weight: 300;
+    margin-bottom: 3rem;
+  }
+
+  &__icon {
+    height: 5rem;
+    width: 5rem;
+    margin-bottom: 2rem;
+  }
+
+  &__sub-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+
+    @media (max-width: 576px) {
+      flex-flow: column;
+    }
+  }
+
+  &__ter-wrapper {
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 45%;
+
+    @media (max-width: 576px) {
+      width: 90%;
+      flex-flow: column;
+    }
+  }
+
+  &__button-wrapper {
+    margin-top: 8rem;
+  }
+}

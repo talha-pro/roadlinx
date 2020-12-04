@@ -1,0 +1,48 @@
+@import '~bootstrap/scss/bootstrap';
+// @import '~slick-carousel/slick/slick.css';
+// @import '~slick-carousel/slick/slick-theme.css';
+
+@import '../sass/abstracts/variables';
+@import '../sass/abstracts/mixins';
+@import '../sass/base/reset';
+@import '../sass/base/typography';
+@import '../sass/pages/index';
+@import '../sass//components/_button';
+@import '../sass//components/_footer';
+@import '../sass//components/_freequote';
+@import '../sass//components/_oceanshipping';
+@import '../sass//components/_warehousing';
+@import '../sass//components/_icon-text';
+@import '../sass//components/_form-card';
+@import '../sass//components/_quote-form';
+@import '../sass//components/_tab-button';
+@import '../sass//components/_slidecard';
+@import '../sass//components/_header';
+@import '../sass//components/_location';
+@import '../sass//components/_blogcard';
+@import '../sass//components/_halfcard';
+@import '../sass//components/_trucktype';
+@import '../sass//components/_international';
+@import '../sass//components/_hero';
+@import '../sass//components/_team-card';
+@import '../sass//components/_team-carousel';
+@import '../sass//components/_getquote';
+@import '../sass//components/_card-box';
+@import '../sass//components/_custom-tabs';
+@import '../sass//components/_callfurthur';
+@import '../sass//components/_table';
+@import '../sass//components/_logistics';
+@import '../sass//components/_personalised';
+@import '../sass//components/_navigation';
+
+// Pages
+
+@import '../sass//layout/_homepage';
+@import '../sass//pages/services';
+@import '../sass//pages/equipment';
+@import '../sass//pages/about';
+@import '../sass//pages/freeresources';
+@import '../sass//pages/blogpost';
+@import '../sass//pages/contactus';
+@import '../sass//pages/fulltruckload';
+@import '../sass//pages/dryvans';

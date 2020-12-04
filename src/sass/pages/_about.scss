@@ -1,0 +1,205 @@
+.about-team {
+  min-height: 100rem;
+  padding: 0rem 5rem;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+
+  &__arrows {
+    display: none !important;
+  }
+
+  &__sub-heading {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: $secondary;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+  }
+
+  &__heading {
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: black;
+  }
+
+  &__text {
+    width: 90%;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: black;
+    margin-top: 2rem;
+  }
+
+  &__buttons-wrapper {
+    display: flex;
+    flex-flow: row;
+    margin-top: 2rem;
+  }
+
+  &__button {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    height: 8rem;
+    width: 8rem;
+    border-radius: 50%;
+    padding: 2rem;
+    margin: 0rem 1rem;
+    background-color: $primary;
+    cursor: pointer;
+  }
+
+  &__carousel {
+    display: flex !important;
+    flex-flow: row !important;
+    align-items: flex-start !important;
+    // margin-top: -20rem;
+    width: 100% !important;
+    border: 1px solid red;
+  }
+}
+
+.about-advantage {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  min-height: 57rem;
+  padding: 0rem 5rem;
+  @media (min-width: 320px) and (max-width: 576px) {
+    padding: 0rem 1rem;
+  }
+
+  &__col {
+    display: flex;
+    flex-flow: row;
+    align-items: flex-start;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      align-items: center;
+      justify-content: space-between;
+      flex-flow: column;
+    }
+  }
+
+  &__heading {
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: black;
+    width: 70%;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      width: 100%;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      font-size: 3rem;
+      width: 100%;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      width: 90%;
+    }
+  }
+
+  &__text {
+    width: 70%;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: black;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 1.5rem;
+      width: 100%;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      width: 100%;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      width: 90%;
+    }
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 80%;
+  }
+
+  &__image-wrapper {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    height: 14rem;
+    width: 14rem;
+    border-radius: 50%;
+    background-color: rgba($secondary, 0.1);
+  }
+
+  &__label {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: black;
+    margin-top: 2rem;
+    text-align: center;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+.about-call-us {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  min-height: 57rem;
+  background-color: $primary;
+
+  &__col {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__sub-heading {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: $secondary;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+  }
+  &__heading {
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: black;
+    width: 70%;
+  }
+
+  &__text {
+    width: 70%;
+    font-size: 3.2rem;
+    font-weight: 500;
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 2.6rem;
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+      margin-left: 10rem;
+      width: 100%;
+    }
+  }
+}

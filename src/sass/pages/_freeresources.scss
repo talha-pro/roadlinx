@@ -1,0 +1,24 @@
+.blog {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  min-height: 200vh;
+  padding-bottom: 10rem;
+  margin: 5rem;
+
+  &__col-left {
+    height: 200vh;
+    border: 1px solid red;
+  }
+  &__col-right {
+    height: 200vh;
+    margin-left: 12rem;
+    border: 1px solid red;
+  }
+
+  &__heading {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: black;
+  }
+}

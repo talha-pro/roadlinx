@@ -1,0 +1,259 @@
+.half-card.primary {
+  //   border: 1px solid red;
+  color: white;
+
+  &__image {
+    position: relative;
+    width: 70rem;
+    height: 60rem;
+  }
+
+  &__ticket-wrapper {
+    position: absolute;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 30rem;
+    height: 35rem;
+    padding: 2rem;
+    background-color: $primary;
+
+    @media (min-width: 1818px) {
+      top: 50%;
+      right: 15%;
+    }
+
+    @media (max-width: 1818px) {
+      top: 50%;
+      right: 12%;
+    }
+    @media (max-width: 1750px) {
+      top: 50%;
+      right: 5%;
+    }
+    @media (max-width: 1650px) {
+      top: 50%;
+      right: -2%;
+    }
+    @media (max-width: 1495px) {
+      top: 50%;
+      right: -5%;
+    }
+    @media (max-width: 1350px) {
+      top: 50%;
+      right: -5%;
+    }
+    @media (max-width: 1200px) {
+      top: 50%;
+      right: 15%;
+    }
+    @media (max-width: 1060px) {
+      top: 50%;
+      right: 13%;
+    }
+    @media (max-width: 992px) {
+      top: 50%;
+      right: 0%;
+    }
+    @media (max-width: 768px) {
+      top: 50%;
+      right: -3%;
+    }
+    @media (max-width: 576px) {
+      top: 50%;
+      right: 6%;
+    }
+  }
+
+  &__icon {
+    margin-bottom: 3rem;
+  }
+
+  &__text {
+    font-size: 4.5rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+
+  &__heading {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+  }
+}
+
+.half-card.secondary {
+  //   border: 1px solid red;
+  color: white;
+
+  &__image {
+    position: relative;
+    width: 70rem;
+    height: 60rem;
+  }
+
+  &__ticket-wrapper {
+    position: absolute;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 30rem;
+    height: 35rem;
+    padding: 2rem;
+    background-color: $primary;
+
+    @media (min-width: 1818px) {
+      top: 30%;
+      right: 12%;
+    }
+
+    @media (max-width: 1818px) {
+      top: 30%;
+      right: 10%;
+    }
+    @media (max-width: 1750px) {
+      top: 30%;
+      right: 5%;
+    }
+    @media (max-width: 1650px) {
+      top: 30%;
+      right: -2%;
+    }
+    @media (max-width: 1495px) {
+      top: 30%;
+      right: -5%;
+    }
+    @media (max-width: 1350px) {
+      top: 30%;
+      right: -5%;
+    }
+    @media (max-width: 1200px) {
+      top: 30%;
+      right: 15%;
+    }
+    @media (max-width: 1060px) {
+      top: 30%;
+      right: 13%;
+    }
+    @media (max-width: 992px) {
+      top: 30%;
+      right: 0%;
+    }
+    @media (max-width: 768px) {
+      top: 30%;
+      right: -3%;
+    }
+    @media (max-width: 576px) {
+      top: 30%;
+      right: 6%;
+    }
+  }
+
+  &__icon {
+    margin-bottom: 3rem;
+  }
+
+  &__text {
+    font-size: 4.5rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+
+  &__heading {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+  }
+}
+
+.half-card.tertiary {
+  //   border: 1px solid red;
+  color: white;
+
+  &__image {
+    position: relative;
+    width: 70rem;
+    height: 60rem;
+  }
+
+  &__ticket-wrapper {
+    position: absolute;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 30rem;
+    height: 35rem;
+    padding: 2rem;
+    background-color: $primary;
+
+    @media (min-width: 1818px) {
+      top: 30%;
+      left: -15%;
+    }
+
+    @media (max-width: 1818px) {
+      top: 30%;
+      left: -15%;
+    }
+    @media (max-width: 1750px) {
+      top: 30%;
+      left: -15%;
+    }
+    @media (max-width: 1650px) {
+      top: 30%;
+      left: -15%;
+    }
+    @media (max-width: 1495px) {
+      top: 30%;
+      left: -15%;
+    }
+    @media (max-width: 1350px) {
+      top: 30%;
+      left: -15%;
+    }
+    @media (max-width: 1200px) {
+      top: 30%;
+      left: -3%;
+    }
+    @media (max-width: 1060px) {
+      top: 30%;
+      left: -3%;
+    }
+    @media (max-width: 992px) {
+      top: 30%;
+      left: -3%;
+    }
+    @media (max-width: 768px) {
+      top: 30%;
+      left: 1%;
+    }
+    @media (max-width: 576px) {
+      top: 30%;
+      left: -3%;
+    }
+  }
+
+  &__icon {
+    margin-bottom: 3rem;
+  }
+
+  &__text {
+    font-size: 4.5rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+
+  &__heading {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+  }
+}

@@ -1,0 +1,113 @@
+.makeStyles-root-1 {
+  margin-left: 10rem !important;
+  position: relative !important;
+  font-family: 'Montserrat', sans-serif !important;
+
+  @media (min-width: 320px) and (max-width: 576px) {
+    margin-left: 0.5rem !important;
+  }
+
+  @media (min-width: 576px) and (max-width: 768px) {
+    margin-left: 1rem !important;
+  }
+
+  @media (min-width: 768px) and (max-width: 992px) {
+    margin-left: 2rem !important;
+  }
+
+  @media (min-width: 992px) and (max-width: 1200px) {
+    margin-left: 4rem !important;
+  }
+
+  @media (min-width: 1200px) and (max-width: 1383px) {
+    margin-left: 3rem !important;
+  }
+
+  @media (min-width: 1383px) and (max-width: 1548px) {
+    margin-left: 4rem !important;
+  }
+
+  @media (min-width: 1548px) and (max-width: 1750px) {
+    margin-left: 5rem !important;
+  }
+
+  @media (min-width: 1750px) and (max-width: 1880px) {
+    margin-left: 8rem !important;
+  }
+}
+
+.MuiAppBar-root {
+  position: absolute !important;
+  top: -8.5rem !important;
+  left: 0 !important;
+}
+
+.MuiPaper-elevation4 {
+  box-shadow: none !important;
+}
+
+.MuiAppBar-colorPrimary {
+  background-color: transparent !important;
+  color: Black !important;
+}
+
+.MuiTab-wrapper {
+  font-size: 1.6rem !important;
+  font-weight: 600 !important;
+
+  @media (min-width: 320px) and (max-width: 576px) {
+    font-size: 1rem !important;
+  }
+}
+
+.MuiTabs-flexContainer {
+  width: 100% !important;
+  background-color: transparent !important;
+  height: 10.4rem !important;
+
+  text-transform: uppercase !important;
+}
+
+.MuiTab-root {
+  height: 8.5rem !important;
+  width: 26.8rem !important;
+  background-color: black !important ;
+  color: white !important;
+
+  @media (min-width: 320px) and (max-width: 576px) {
+    height: 8.5rem !important;
+    width: 10rem !important;
+  }
+
+  @media (min-width: 576px) and (max-width: 768px) {
+    height: 8.5rem !important;
+    width: 20rem !important;
+  }
+}
+
+.MuiTab-textColorInherit.Mui-selected {
+  height: 10.4rem !important;
+  width: 26.8rem !important;
+  color: white !important;
+  outline: none !important;
+  border: none !important;
+  background-color: $secondary !important ;
+
+  @media (min-width: 320px) and (max-width: 576px) {
+    height: 10.4rem !important;
+    width: 10rem !important;
+  }
+
+  @media (min-width: 576px) and (max-width: 768px) {
+    height: 10.4rem !important;
+    width: 20rem !important;
+  }
+}
+
+.PrivateTabIndicator-root-2 {
+  display: none !important;
+}
+
+.tab-panel {
+  background-color: #fafafa;
+}

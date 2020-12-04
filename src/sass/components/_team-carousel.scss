@@ -1,0 +1,47 @@
+.about-team-carousel {
+  position: relative;
+  background-color: white;
+
+  &__sub-heading {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: $secondary;
+    text-align: center;
+  }
+  &__heading {
+    font-size: 3.6rem;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+  }
+
+  &__col {
+    border: 1px solid red;
+    margin-top: -20rem;
+  }
+
+  &__carousel {
+    display: flex !important;
+    flex-flow: row !important;
+    align-items: flex-start !important;
+  }
+
+  &__buttons-wrapper {
+    // position: absolute;
+    // top: 0%;
+    // left: 90%;
+    display: flex;
+    flex-flow: row;
+  }
+
+  &__button {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin: 0rem 0.1rem;
+    background-color: $primary;
+    cursor: pointer;
+  }
+}

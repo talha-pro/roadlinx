@@ -1,0 +1,104 @@
+.call-furthur {
+  height: 57.5rem;
+  background-color: $primary;
+  color: white;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  padding-left: 15rem;
+
+  @media (min-width: 320px) and (max-width: 576px) {
+    height: 80rem;
+    padding: 0rem 1rem;
+  }
+
+  @media (min-width: 576px) and (max-width: 768px) {
+    padding: 0rem 5rem;
+  }
+
+  @media (min-width: 768px) and (max-width: 992px) {
+    padding: 0rem 5rem;
+  }
+
+  @media (min-width: 992px) and (max-width: 1200px) {
+    padding-left: 5rem;
+  }
+
+  &__col-left {
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  &__heading {
+    font-size: 3.2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    width: 60%;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 2.8rem;
+      width: 100%;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      font-size: 2.8rem;
+      width: 100%;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      font-size: 2.8rem;
+      width: 80%;
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+      font-size: 2.8rem;
+      width: 100%;
+    }
+
+    @media (min-width: 1200px) and (max-width: 1383px) {
+      font-size: 3rem;
+      width: 100%;
+    }
+
+    @media (min-width: 1383px) and (max-width: 1548px) {
+      font-size: 3.2rem;
+      width: 90%;
+    }
+
+    @media (min-width: 1548px) and (max-width: 1750px) {
+      font-size: 3.2rem;
+      width: 80%;
+    }
+    @media (min-width: 1750px) and (max-width: 1880px) {
+      font-size: 3.2rem;
+      width: 80%;
+    }
+  }
+
+  &__text {
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+  }
+
+  &__col-right {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      margin-top: 5rem;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      margin-top: 5rem;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      margin-top: 5rem;
+    }
+  }
+}

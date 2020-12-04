@@ -1,0 +1,63 @@
+.get-quote {
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 46rem;
+  height: 55rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.1);
+  padding: 4rem;
+
+  @media (min-width: 320px) and (max-width: 576px) {
+    width: 32rem;
+    height: 49rem;
+  }
+
+  @media (min-width: 1200px) and (max-width: 1383px) {
+    width: 33rem;
+    height: 49rem;
+  }
+
+  @media (min-width: 1383px) and (max-width: 1548px) {
+    width: 37rem;
+    height: 49rem;
+  }
+
+  @media (min-width: 1548px) and (max-width: 1750px) {
+    width: 42rem;
+    height: 51rem;
+  }
+
+  &__title {
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: $primary;
+    margin-bottom: 3rem;
+  }
+
+  &__form {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  &__input {
+    font-size: 1.6rem;
+    font-weight: 500;
+    width: 100%;
+    color: grey;
+    // margin: 1rem 0rem;
+    padding: 2rem 0rem;
+    outline: none !important;
+    border: none;
+    border-bottom: 0.2rem solid #f2f2f2;
+  }
+
+  &__button-wrapper {
+    width: 100%;
+    // border: 1px solid red;
+  }
+}

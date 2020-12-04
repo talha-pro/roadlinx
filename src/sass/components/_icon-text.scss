@@ -1,0 +1,42 @@
+.icon-text {
+  &__wrapper {
+    display: flex;
+    padding: 1.2rem 0;
+  }
+
+  &__icon {
+    width: 1.6rem;
+    min-width: 1.6rem;
+    color: $secondary;
+  }
+
+  &__text {
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    font-family: Montserrat;
+    color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 600;
+    margin-top: -2px;
+
+    &.invert {
+      color: $secondary !important;
+    }
+  }
+
+  &__description {
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    font-family: Montserrat;
+    color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 600;
+    margin-top: -2px;
+
+    &.invert {
+      color: #000 !important;
+    }
+  }
+}

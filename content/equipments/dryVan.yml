@@ -1,0 +1,2006 @@
+- heading: 28′ Sheet & Post Van
+  items:
+    - title: 28 ft Air-Ride, Roll-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: dry-van.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 8.53 m
+          imperial: 28'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 762 mm
+          imperial: 30”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height
+          metric: 2,718 mm
+          imperial: 107”
+        - dimensions: Cubic Capacity
+          metric: 58.62 m3
+          imperial: 2,070 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 3,629 kg
+          imperial: 8,000 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,489 mm
+          imperial: 98”
+        - opening: Height (in)
+          metric: 2,667 mm
+          imperial: 105”
+      mechanics:
+        - name: Suspension
+          description: Fixed single axle with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Refrigeration Unit
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece aluminum roof
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Side Door(s)
+          description: One swing-door on curbside, located 159-1/2″ from nose of trailer to center of door
+        - name: Side Door Access
+          description: 2 rung, fixed step and grab-handle
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 28 ft Spring-Ride, Roll-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      specifications:
+        - dimensions: Overall Length
+          metric: 8.53 m
+          imperial: 28'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 762 mm
+          imperial: 30”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height
+          metric: 2,718 mm
+          imperial: 107”
+        - dimensions: Cubic Capacity
+          metric: 58.62 m3
+          imperial: 2,070 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 3,629 kg
+          imperial: 8,000 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,489 mm
+          imperial: 98”
+        - opening: Height (in)
+          metric: 2,667 mm
+          imperial: 105”
+      mechanics:
+        - name: Suspension
+          description: Fixed single axle with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Refrigeration Unit
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece aluminum roof
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Side Door(s)
+          description: One swing-door on curbside, located 159-1/2″ from nose of trailer to center of door
+        - name: Side Door Access
+          description: 2 rung, fixed step and grab-handle
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: 53′ Sheet & Post Van
+  items:
+    - title: 53 ft High Cube, Spring-Ride, Swing Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-high-cube.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,267 mm
+          imperial: 14′ 0”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,946 mm
+          imperial: 116”
+        - dimensions: Cubic Capacity
+          metric: 120.91 m3
+          imperial: 4,270 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,604 kg
+          imperial: 14,560 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 29,883 mm
+          imperial: 98′ 1/2”
+        - opening: Height (in)
+          metric: 2,946 mm
+          imperial: 116”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 1/2″ axle wall, 22,500 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 16″ centers
+        - name: Roof
+          description: .040 aluminum
+        - name: Floor
+          description: 1-1/4″ heavy duty aluminum with two nailing strips and a 24″ deep aluminum threshold plate
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Air-Ride, Roll-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-high-cube.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 113.41 m3
+          imperial: 4,005 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,668 kg
+          imperial: 14,700 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,388 mm
+          imperial: 94”
+        - opening: Height (in)
+          metric: 2,642 mm
+          imperial: 104”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Air-Ride, Swing-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-high-cube.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 113.41 m3
+          imperial: 4,005 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,577 kg
+          imperial: 14,500 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 29,883 mm
+          imperial: 98′ 1/2”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Spring-Ride, Roll-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-high-cube.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 113.41 m3
+          imperial: 4,005 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,486 kg
+          imperial: 14,300 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 29,883 mm
+          imperial: 94”
+        - opening: Height (in)
+          metric: 2,642 mm
+          imperial: 104”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 1/2″ axle wall, 22,500 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ or 16″ centers from landing gear forward
+        - name: Cargo Control
+          description: 1 row of “E” track (full length, both sides) located 48″ from floor
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Spring-Ride, Swing-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-high-cube.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 113.41 m3
+          imperial: 4,005 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,350 kg
+          imperial: 14,000 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 29,883 mm
+          imperial: 98′ 1/2”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 1/2″ axle wall, 22,500 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ or 16″ centers from landing gear forward
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: Auto Drop Van
+  items:
+    - title: 53 ft Air-Ride, Swing-Door
+      category: Auto Drop Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Deck Length – Front Deck
+          metric: 3,353 mm
+          imperial: 11′ 0”
+        - dimensions: Deck Length – Rear Deck
+          metric: 12,497 mm
+          imperial: 41′ 0”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 889 mm
+          imperial: 35”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height (front of drop)
+          metric: 2,731 mm
+          imperial: 107.5”
+        - dimensions: Inside Height (rear of drop)
+          metric: 3,188 mm
+          imperial: 125.5”
+        - dimensions: Cubic Capacity
+          metric: 123.74 m3
+          imperial: 4,370 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 7,847 kg
+          imperial: 17,300 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,489 mm
+          imperial: 98”
+        - opening: Height (in)
+          metric: 3,175 mm
+          imperial: 125”
+      mechanics:
+        - name: Suspension
+          description: Fixed position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 215/75R 17.5 premium radial tires
+        - name: Wheels
+          description: 6.75″ x 17.5″ steel stud-piloted wheels
+        - name: Brakes
+          description: 12-1/4″ x 7-1/2″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up and 5th-wheel plates. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ centers from landing gear forward
+        - name: Roof
+          description: One piece aluminum roof
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmembe
+        - name: Scuff
+          description: Sides 2 rows of 16″ x 3/16″ flat steel located at floor line and 60″ above floor. Roof, 4 rows of galvanized steel scuff liner. Face of Drop, 1″ hardwood overlaid with flat steel plate, full height and width
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 6 hinges and 2 locking-rods per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: Electronics Drop Van
+  items:
+    - title: 48 ft Air-Ride, Swing-Door
+      category: Electronics Drop Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 14.63 m
+          imperial: 48′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Deck Length – Front Deck
+          metric: 3,353 mm
+          imperial: 11′ 0”
+        - dimensions: Deck Length – Rear Deck
+          metric: 10,973 mm
+          imperial: 36′ 0”
+        - dimensions: Overall Height
+          metric: 152 mm
+          imperial: 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,041 mm
+          imperial: 41”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height (front of drop)
+          metric: 2,743 mm
+          imperial: 108”
+        - dimensions: Inside Height (rear of drop)
+          metric: 3,048 mm
+          imperial: 120”
+        - dimensions: Cubic Capacity
+          metric: 108.65 m3
+          imperial: 3,837 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 7,257 kg
+          imperial: 16,000 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,489 mm
+          imperial: 98”
+        - opening: Height (in)
+          metric: 2,972 mm
+          imperial: 117”
+      mechanics:
+        - name: Suspension
+          description: Fixed position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 255/70R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up and 5th-wheel plates. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes
+        - name: Posts
+          description: Galvanized steel, double slotted “A” logistics posts
+        - name: Roof
+          description: One piece aluminum roof
+        - name: Cargo Control
+          description: 8′ double slotted “E” track at rear, located 48″ from floor
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmembe
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 6 hinges and 2 locking-rods per door
+        - name: Side Door Access
+          description: Two 48″ wide swing-doors on curbside, located 208″ and 379-1/2″ from nose of trailer to center of doors. One 96″ wide double door on roadside, located 305-1/2″ from nose of trailer to center of doors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Air-Ride, Swing-Door
+      category: Electronics Drop Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 53-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53'
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Deck Length – Front Deck
+          metric: 3,353 mm
+          imperial: 11′ 0”
+        - dimensions: Deck Length – Rear Deck
+          metric: 12,497 mm
+          imperial: 41′ 0”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,041 mm
+          imperial: 41”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height (front of drop)
+          metric: 2,743 mm
+          imperial: 108”
+        - dimensions: Inside Height (rear of drop)
+          metric: 3,048 mm
+          imperial: 120”
+        - dimensions: Cubic Capacity
+          metric: 120.40 m3
+          imperial: 4,252 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 8,482 kg
+          imperial: 18,700 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,489 mm
+          imperial: 98”
+        - opening: Height (in)
+          metric: 2,972 mm
+          imperial: 117”
+      mechanics:
+        - name: Suspension
+          description: Fixed position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 255/70R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up and 5th-wheel plates. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes
+        - name: Posts
+          description: Galvanized steel, double slotted “A” logistics posts
+        - name: Cargo Control
+          description: 8′ double slotted “E” track at rear, located 48″ from floor
+        - name: Roof
+          description: One piece aluminum roof
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmembe
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 6 hinges and 2 locking-rods per door
+        - name: Side Door Access
+          description: Two 48″ wide swing-doors on curbside, located 207-1/2″ and 423-1/2″ from nose of trailer to center of doors. One 96″ wide double door on roadside, located 305-1/2″ from nose of trailer to center of doors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: 48′ Sheet & Post Van
+  items:
+    - title: 48 ft Air-Ride, Roll-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 14.63 m
+          imperial: 48′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 101.09 m3
+          imperial: 3,570 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,396 kg
+          imperial: 14,100 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,388 mm
+          imperial: 94”
+        - opening: Height (in)
+          metric: 2,642 mm
+          imperial: 104”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel, double slotted “A” logistics posts
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmembe
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 6 hinges and 2 locking-rods per door
+        - name: Side Door Access
+          description: Two 48″ wide swing-doors on curbside, located 208″ and 379-1/2″ from nose of trailer to center of doors. One 96″ wide double door on roadside, located 305-1/2″ from nose of trailer to center of doors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 48 ft Air-Ride, Swing-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 14.63 m
+          imperial: 48′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 101.09 m3
+          imperial: 3,570 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,260 kg
+          imperial: 13,800 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 29,883 mm
+          imperial: 98′ 1/2”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Side Door Access
+          description: Two 48″ wide swing-doors on curbside, located 208″ and 379-1/2″ from nose of trailer to center of doors. One 96″ wide double door on roadside, located 305-1/2″ from nose of trailer to center of doors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 48 ft Spring-Ride, Roll-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 14.63 m
+          imperial: 48′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 101.09 m3
+          imperial: 3,570 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,260 kg
+          imperial: 13,800 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 29,883 mm
+          imperial: 98′ 1/2”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ or 16″ centers from landing gear forward
+        - name: Cargo Control
+          description: 1 row of “E” track (full length, both sides) located 48″ from floor
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 48 ft Spring-Ride, Swing-Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 14.63 m
+          imperial: 48′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 101.09 m3
+          imperial: 3,570 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,123 kg
+          imperial: 13,500 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 29,883 mm
+          imperial: 98′ 1/2”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 1/2″ axle wall, 22,500 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ or 16″ centers from landing gear forward
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: 57′ Sheet & Post Van
+  items:
+    - title: 57 ft Spring Ride, Swing Door
+      category: Sheet & Post Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 17.37 m
+          imperial: 57′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,515 mm
+          imperial: 99”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 122.10 m3
+          imperial: 4,312 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,804 kg
+          imperial: 15,000 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,502 mm
+          imperial: 98.5”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ centers from landing gear forward
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: Curtain-Side Van
+  items:
+    - title: 48 ft Air-Ride, Swing-Door
+      category: Curtain-Side Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 14.63 m
+          imperial: 48′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102"
+        - dimensions: Deck Height
+          metric: 1,372 mm
+          imperial: 54”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,219 mm
+          imperial: 48”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Inside Height
+          metric: 2,680 mm
+          imperial: 105.5”
+        - dimensions: Weight (+/- 3%)
+          metric: 6,577 kg
+          imperial: 14,500 lbs
+      sideSpecifications:
+        - opening: Width (in)
+          metric: 14,275 mm
+          imperial: 46′ 10”
+        - opening: Height (in)
+          metric: 2,591 mm
+          imperial: 102”
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,489 mm
+          imperial: 98”
+        - opening: Height (in)
+          metric: 2,667 mm
+          imperial: 105”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 5/16″ pick-up and 5th-wheel plates. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Main Frame
+          description: Fabricated high-tensile steel main beams
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and low-profile sand shoes. 5 crossmember mount
+        - name: Posts
+          description: 2 removable steel posts per side. High pivot point with sliding collar lock
+        - name: Curtains
+          description: One piece curtains with stainless steel locking buckles and sewn loops on 24″ centers. Quick release tensioners
+        - name: Cargo Control
+          description: 13 medium-profile sliding winches mounted on roadside
+        - name: Roof
+          description: One piece translucent roof with 30% translucency. 6″ valence
+        - name: Floor
+          description: 1-1/8″ apitong floor
+        - name: Rear Frame
+          description: 6″ steel channel corners with 2″ hinge protectors and quick release mechanisms
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Air-Ride, Swing-Door
+      category: Curtain-Side Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53′
+        - dimensions: Overall Width
+          metric: '2,591 mm'
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: '2,591 mm'
+          imperial: 102”
+        - dimensions: Deck Height
+          metric: '1,372 mm'
+          imperial: 54”
+        - dimensions: Overall Height
+          metric: '4,115 mm'
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: '1,219 mm'
+          imperial: 48”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Inside Height
+          metric: '2,680 mm'
+          imperial: 105.5”
+        - dimensions: Weight (+/- 3%)
+          metric: '7,394 kg'
+          imperial: '16,300 lbs'
+      sideSpecifications:
+        - opening: Width (in)
+          metric: '15,799 mm'
+          imperial: 51′ 10”
+        - opening: Height (in)
+          metric: '2,591 mm'
+          imperial: 102”
+      doorSpecifications:
+        - opening: Width (in)
+          metric: '2,489 mm'
+          imperial: 98”
+        - opening: Height (in)
+          metric: '2,667 mm'
+          imperial: 105”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 5/16″ pick-up and 5th-wheel plates. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Main Frame
+          description: Fabricated high-tensile steel main beams
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and low-profile sand shoes. 5 crossmember mount
+        - name: Posts
+          description: 3 removable steel posts per side. High pivot point with sliding collar lock
+        - name: Curtains
+          description: One piece curtains with stainless steel locking buckles and sewn loops on 24″ centers. Quick release tensioners
+        - name: Cargo Control
+          description: 13 medium-profile sliding winches mounted on roadside
+        - name: Roof
+          description: One piece translucent roof with 30% translucency. 6″ valence
+        - name: Floor
+          description: 1-1/8″ apitong floor
+        - name: Rear Frame
+          description: 6″ steel channel corners with 2″ hinge protectors and quick release mechanisms
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Spring-Ride, Roll-Door
+      category: Liftgate Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 113.41 m3
+          imperial: 4,005 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 7,439 kg
+          imperial: 16,400 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,388 mm
+          imperial: 94”
+        - opening: Height (in)
+          metric: 2,642 mm
+          imperial: 104”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 1/2″ axle wall, 22,500 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and low-profile sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ or 16″ centers from landing gear forward
+        - name: Cargo Control
+          description: 1 row of “E” track (full length, both sides) located 48″ from floor
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plastic coated roll-door with 60″ door-track protectors
+        - name: Rear Doors Access
+          description: Hydraulic Rail-Lift, with 5,000 lb. Capacity
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: Roller-Bed Van
+  items:
+    - title: 53 ft Air-Ride, Swing-Door
+      category: Roller-Bed Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Weight (+/- 3%)
+          metric: 6,577 kg
+          imperial: 14,500 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,502 mm
+          imperial: 98.5”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up and 5th-wheel plates. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: Pneumatic roller track floor system
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: Roller-Bed Van
+  items:
+    - title: 53 ft Air-Ride, Swing-Door
+      category: Plate Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,565 mm
+          imperial: 101”
+        - dimensions: Inside Width
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Inside Width
+          metric: 114.97 m3
+          imperial: 4,060 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,577 kg
+          imperial: 14,500 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,515 mm
+          imperial: 99”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tridem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Aluminum “A” slotted logistics posts, 5 additional sidewall stiffeners per side
+        - name: Roof
+          description: One piece aluminum roof
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 6″ aluminum scuff, integral with bottom rail. 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 2 locking-rods per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 ft Spring-Ride, Swing-Door
+      category: Plate Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,565 mm
+          imperial: 101”
+        - dimensions: Inside Width
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 114.97 m3
+          imperial: 4,060 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,396 kg
+          imperial: 14,100 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,515 mm
+          imperial: 99”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 1/2″ axle wall, 22,500 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Aluminum “A” slotted logistics posts, 5 additional sidewall stiffeners per side
+        - name: Roof
+          description: One piece aluminum roof
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 6″ aluminum scuff, integral with bottom rail. 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 2 locking-rods per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 57 ft Spring-Ride, Swing-Door
+      category: Plate Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 17.37 m
+          imperial: 57′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Deck Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 122.10 m3
+          imperial: 4,312 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 6,804 kg
+          imperial: 15,000 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,502 mm
+          imperial: 98.5”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tandem axles with spring-ride suspension.
+        - name: Axles
+          description: 1/2″ axle wall, 22,500 lb. capacity with synthetic wheel-end lubricant
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 2 sensor / 1 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with internal gearbox and tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel posts on 24″ centers, 12″ centers from landing gear forward
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+- heading: Tridem Van
+  items:
+    - title: 48 Air-Ride, Swing-Door
+      category: Tridem Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 14.63 m
+          imperial: 48′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 101.09 m3
+          imperial: 3,570 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 7,439 kg
+          imperial: 16,400 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,502 mm
+          imperial: 98.5”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tridem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Axles Spread
+          description: 72″
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 4 sensor / 2 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: 4″ steel I-beam crossmembers on 12″ centers with additional crossmembers at rear on 8″ centers. Inverted-hat crossmembers from landing gear forward
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside
+    - title: 53 Air-Ride, Swing-Door
+      category: Tridem Van
+      description: Trailer specification features may vary based upon model year, trailer type and location. Equipment is subject to availability at each location.
+      image: 48-spv-air-ride.jpg
+      specifications:
+        - dimensions: Overall Length
+          metric: 16.15 m
+          imperial: 53′
+        - dimensions: Overall Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Frame Width
+          metric: 2,591 mm
+          imperial: 102”
+        - dimensions: Overall Height
+          metric: 4,115 mm
+          imperial: 13′ 6”
+        - dimensions: Coupler Height
+          metric: 1,194 mm
+          imperial: 47”
+        - dimensions: Kingpin Setting
+          metric: 914 mm
+          imperial: 36”
+        - dimensions: Dock Height
+          metric: 1,270 mm
+          imperial: 50”
+        - dimensions: Inside Width (at liner)
+          metric: 2,540 mm
+          imperial: 100”
+        - dimensions: Inside Height
+          metric: 2,794 mm
+          imperial: 110”
+        - dimensions: Cubic Capacity
+          metric: 113.41 m3
+          imperial: 4,005 ft3
+        - dimensions: Weight (+/- 3%)
+          metric: 7,666 kg
+          imperial: 16,900 lbs
+      doorSpecifications:
+        - opening: Width (in)
+          metric: 2,502 mm
+          imperial: 98.5”
+        - opening: Height (in)
+          metric: 2,794 mm
+          imperial: 110”
+      mechanics:
+        - name: Suspension
+          description: Full slide range, variable-position tridem axles with Air-Ride suspension. Airbags equipped with self-regulating height control valve and manual dump valve
+        - name: Axles
+          description: 5/8″ axle wall, 25,000 lb. capacity with synthetic wheel-end lubricant
+        - name: Axles Spread
+          description: 72″
+        - name: Tires
+          description: 295/75R 22.5 premium radial tires
+        - name: Wheels
+          description: 8.25″ x 22.5″ steel hub-piloted wheels
+        - name: Brakes
+          description: 16-1/2″ x 7″ x 3/4″ s-cam, quick-change brake shoes
+        - name: ABS
+          description: 4 sensor / 2 modulator-valve system
+        - name: Upper Coupler
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Crossmembers
+          description: AAR certified coupler with 1/4″ pick-up plate and 5/16″ 5th-wheel plate. Interior coupler surfaces sealed with corrosion resistant coating
+        - name: Landing Gear
+          description: AAR certified, 2-speed landing gear with tilt-cushion sand shoes. 5 crossmember mount
+        - name: Posts
+          description: Galvanized steel “A” slotted logistics posts
+        - name: Roof
+          description: One piece translucent roof with 30% translucency
+        - name: Floor
+          description: 1-3/8″ laminated hardwood floor secured by 3 screws per board at each crossmember
+        - name: Scuff
+          description: 12″ fluted aluminum side scuff-liner with a 12″ Flat Steel Plate in nose of trailer
+        - name: Rear Doors
+          description: 3/4″ plymetal construction swing-doors, with 5 hinges and 1 locking-rod per door
+        - name: Lights & Wiring
+          description: Sealed-beam lights with a fully sealed wiring harness and internal ground
+        - name: Electrical Connections
+          description: 7-way ATA plug with no circuit breakers
+        - name: Air Connections
+          description: Swivel gladhands mounted on roadside

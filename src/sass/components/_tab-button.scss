@@ -1,0 +1,32 @@
+button.tab-button {
+  font-size: 1.3rem;
+  font-weight: 500;
+  outline: none;
+  border: transparent;
+  white-space: nowrap;
+  text-transform: none !important;
+  border-radius: 0;
+
+  &.primary {
+    background-color: #00000077;
+    color: #fff;
+    padding: 1.8rem 3.6rem;
+    &.active {
+      background-color: $primary;
+    }
+  }
+
+  &.secondary {
+    font-weight: 700;
+    font-size: 1.6rem;
+    background-color: transparent;
+    color: #000;
+    &.active {
+      .MuiButton-label {
+        border-bottom: 3px solid $secondary;
+        background-color: transparent;
+        color: $secondary;
+      }
+    }
+  }
+}

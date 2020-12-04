@@ -1,0 +1,14 @@
+.custom-table {
+  & td,
+  th {
+    font-size: 1.6rem !important;
+  }
+
+  & th {
+    text-transform: uppercase;
+  }
+
+  & td {
+    border: none;
+  }
+}

@@ -1,0 +1,93 @@
+button.primary {
+  font-size: 1.3rem;
+  font-weight: 500;
+  background-color: $secondary;
+  padding: 1rem 5rem;
+  color: white;
+  outline: none;
+  border: transparent;
+  text-transform: none !important;
+  border-radius: 0;
+  // width: 100%;
+  &:hover {
+    background-color: $secondary;
+    opacity: 0.9;
+  }
+  &__icon {
+    display: none;
+  }
+}
+
+button.secondary {
+  font-size: 1.6rem;
+  font-weight: 500;
+  background-color: $primary;
+  padding: 0.85rem 5rem;
+  text-transform: uppercase;
+  color: white;
+  outline: none;
+  border-radius: 0;
+  border: transparent;
+
+  &__icon {
+    display: none;
+  }
+
+  @media (min-width: 320px) and (max-width: 576px) {
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+  }
+
+  @media (min-width: 992px) and (max-width: 1200px) {
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 0.6rem 1rem;
+  }
+
+  @media (min-width: 1200px) and (max-width: 1383px) {
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding: 0.5rem 2rem;
+  }
+
+  @media (min-width: 1383px) and (max-width: 1548px) {
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 0.6rem 2.2rem;
+  }
+
+  @media (min-width: 1548px) and (max-width: 1750px) {
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 0.6rem 2.2rem;
+  }
+}
+
+button.tertiary {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 1.6rem;
+  font-weight: 600;
+  background-color: white;
+  padding: 1rem 5rem;
+  color: $primary;
+  outline: none;
+  text-transform: none !important;
+  border-radius: 0;
+  font-family: 'Montserrat', sans-serif !important;
+  border: transparent;
+  width: 100%;
+  &:hover {
+    color: $primary;
+    background-color: #fff;
+    opacity: 0.9;
+  }
+
+  &__icon {
+    margin-right: 1rem !important;
+    // display: block;
+  }
+}

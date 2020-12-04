@@ -1,0 +1,28 @@
+.team-card {
+  height: 63rem;
+  width: 40rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.1);
+  margin: 5rem 2rem !important;
+  &__image {
+    height: 50rem;
+    width: 40rem;
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-flow: column;
+    padding: 3rem;
+  }
+
+  &__heading {
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+  }
+
+  &__text {
+    font-size: 1.8rem;
+    font-weight: 400;
+    font-style: italic;
+  }
+}

@@ -1,0 +1,83 @@
+.international {
+  min-height: 100vh;
+  background-color: white;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 10rem 5rem;
+  margin-bottom: 10rem;
+
+  &__col {
+    margin-bottom: 5rem;
+  }
+
+  &__wrapper {
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  &__sub-heading {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: $secondary;
+  }
+
+  &__heading {
+    width: 42%;
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 2rem;
+  }
+
+  &__text {
+    font-size: 1.7rem;
+    color: black;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    width: 45%;
+  }
+
+  &__carousel {
+    display: flex !important;
+    flex-flow: row !important;
+    align-items: center !important;
+    justify-content: space-evenly !important;
+    // border: 1px solid red !important;
+  }
+
+  &__carousel-wrapper {
+    display: flex !important;
+    flex-flow: row wrap !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    // align-content: space-evenly !important;
+    height: 60vh;
+    // width: 50% !important;
+
+    // border: 1px solid red !important;
+  }
+
+  &__buttons-wrapper {
+    position: absolute;
+    top: 110%;
+    left: 90%;
+    display: flex;
+    flex-flow: row;
+  }
+
+  &__button {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin: 0rem 0.1rem;
+    background-color: $primary;
+    cursor: pointer;
+  }
+}

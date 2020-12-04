@@ -1,0 +1,171 @@
+.about-logistic {
+  min-height: 50vh;
+  padding: 0rem 5rem;
+  background-color: $primary;
+  position: relative;
+
+  &__container {
+  }
+
+  &__image {
+    position: absolute;
+    top: -20rem;
+    left: 50%;
+    width: 95%;
+    transform: translate(-50%, -50%);
+  }
+
+  &__col {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+
+  &__col-bottom {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding-left: 12rem;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      padding-left: 0rem;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      padding-left: 0rem;
+      // width: 80%;
+    }
+  }
+
+  &__sub-heading {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: $secondary;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+  }
+
+  &__sec-heading {
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    margin: 2rem 0rem;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 1.6rem;
+      width: 100%;
+    }
+  }
+
+  &__heading {
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: white;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 2rem;
+      width: 100%;
+    }
+  }
+
+  &__text {
+    width: 32%;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 15rem;
+    text-align: center;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 1.2rem;
+      width: 100%;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      width: 100%;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      width: 80%;
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+      width: 80%;
+    }
+
+    @media (min-width: 1200px) and (max-width: 1383px) {
+      width: 50%;
+    }
+
+    @media (min-width: 1383px) and (max-width: 1548px) {
+      width: 40%;
+    }
+  }
+
+  &__sec-text {
+    width: 60%;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: white;
+    margin-top: 2rem;
+    // margin-bottom: 5rem;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      width: 100%;
+      font-size: 1.2rem;
+      margin-bottom: 5rem;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      width: 100%;
+      margin-bottom: 5rem;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      width: 80%;
+      margin-bottom: 5rem;
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+      width: 80%;
+      margin-bottom: 5rem;
+    }
+
+    @media (min-width: 1200px) and (max-width: 1383px) {
+      width: 80%;
+    }
+
+    @media (min-width: 1383px) and (max-width: 1548px) {
+      width: 70%;
+    }
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+  }
+
+  &__image-wrapper {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    height: 14rem;
+    width: 14rem;
+    border-radius: 50%;
+    background-color: rgba($secondary, 0.1);
+  }
+
+  &__label {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: black;
+    margin-top: 2rem;
+    text-align: center;
+  }
+}

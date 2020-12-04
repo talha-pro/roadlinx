@@ -1,0 +1,24 @@
+.contactus {
+  &__wrapper {
+  }
+
+  &__list {
+    margin: 0;
+    list-style-type: none;
+
+    li {
+      &::before {
+        content: '- ';
+      }
+    }
+  }
+
+  &__card-wrapper {
+    padding: 30px 20px;
+  }
+
+  &__card-heading {
+    color: $primary;
+    font-weight: 600;
+  }
+}

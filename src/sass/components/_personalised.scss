@@ -1,0 +1,118 @@
+.about-half-card {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  min-height: 150rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-bottom: 70rem;
+  background-color: #f9f9f9;
+
+  &__col {
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    justify-content: center;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      align-items: center;
+      padding-top: 15rem;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      align-items: center;
+      padding-top: 15rem;
+    }
+
+    @media (min-width: 768px) and (max-width: 992px) {
+      align-items: center;
+      padding-top: 15rem;
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+      align-items: center;
+      padding-top: 15rem;
+    }
+
+    @media (min-width: 1200px) and (max-width: 1383px) {
+      padding-left: 8rem;
+    }
+
+    @media (min-width: 1383px) and (max-width: 1548px) {
+      padding-left: 5rem;
+    }
+
+    @media (min-width: 1548px) and (max-width: 1750px) {
+      padding-left: 5rem;
+    }
+  }
+
+  &__sub-heading {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: $secondary;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+  }
+
+  &__heading {
+    font-size: 3.6rem;
+    font-weight: 600;
+    color: black;
+    width: 70%;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 2.8rem;
+      width: 100%;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      font-size: 2.8rem;
+      width: 100%;
+    }
+
+    @media (min-width: 1200px) and (max-width: 1383px) {
+      font-size: 2.8rem;
+      width: 100%;
+    }
+
+    @media (min-width: 1383px) and (max-width: 1548px) {
+      font-size: 2.8rem;
+      width: 90%;
+    }
+
+    @media (min-width: 1548px) and (max-width: 1750px) {
+      font-size: 2.8rem;
+      width: 90%;
+    }
+  }
+
+  &__text {
+    width: 70%;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: black;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+
+    @media (min-width: 320px) and (max-width: 576px) {
+      font-size: 1.2rem;
+      width: 100%;
+    }
+
+    @media (min-width: 576px) and (max-width: 768px) {
+      font-size: 1.5rem;
+      width: 90%;
+    }
+
+    @media (min-width: 1200px) and (max-width: 1383px) {
+      font-size: 1.5rem;
+      width: 100%;
+    }
+
+    @media (min-width: 1383px) and (max-width: 1548px) {
+      font-size: 1.5rem;
+      width: 90%;
+    }
+  }
+}
